@@ -1,1 +1,0 @@
-# A.-Array-with-Odd-Sum
